@@ -1,3 +1,17 @@
+**Table of Content**
+- [Introduction](#introduction)
+- [Creating a Post on TWT App](#creating-a-post-on-twt-app)
+  - [Create a Text-only Post](#create-a-text-only-post)
+  - [Share an Image](#share-an-image)
+  - [Share a Video](#share-a-video)
+  - [Post Audio](#post-audio)
+  - [Share Documents](#share-documents)
+  - [Ask a Question](#ask-a-question)
+  - [Share a Poll](#share-a-poll)
+  - [Share a Quiz](#share-a-quiz)
+- [Frequently Asked Questions](#frequently-asked-questions)
+- [Troubleshooting](#troubleshooting)
+- [Best Practices](#best-practices)
 
 
 # Introduction
