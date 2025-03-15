@@ -14,8 +14,9 @@ Tech Writers Tribe is an application that helps the technical writing community 
 
 Creating a post helps engage the attention of your audience and encourages interaction with your content. You can post in the Feed section of the Tech Writers Tribe app. The app offers several post options including text, media, polls, and quizzes.
 
-![Image](/images/FlowChart.png)
-**Available options to create a post in TWT app.**
+![Image](Images/FlowChart.png)
+
+ **Available options to create a post in TWT app.**
 
 ## Create a Text-only Post
 
@@ -26,7 +27,7 @@ To create a text-only post,
 1.  On your device, open the Tech Writers Tribe application.
 
 2.  In the **Feed** section, tap
-    ![](images/Add.png).
+    ![Image](Images/Add.png).
 
     The options are displayed.
 
@@ -54,7 +55,7 @@ To share an image post,
 1.  On your device, open the Tech Writers Tribe application.
 
 2.  In the **Feed** section, tap
-    ![alt text](images/Add.png).
+    ![Image](Images/Add.png).
 
     The options are displayed.
 
@@ -90,7 +91,7 @@ To share a video post,
 1.  On your device, open the Tech Writers Tribe application.
 
 2.  In the **Feed** section, tap
-    ![alt text](images/Add.png) .
+    ![Image](Images/Add.png) .
 
     The options are displayed.
 
@@ -104,7 +105,7 @@ To share a video post,
 
 5.  Select the video you wish to share.
 
-6.  Select ![alt text](images/Tick.png).
+6.  Select ![Image](Images/Tick.png).
 
     The **Share a Post** page is displayed with your selected video.
 
@@ -124,7 +125,7 @@ To share an audio post,
 1.  On your device, open the Tech Writers Tribe application.
 
 2.  In the **Feed** section, tap
-    ![alt text](images/Add.png) .
+    ![Image](Images/Add.png) .
 
     The options are displayed.
 
@@ -163,7 +164,7 @@ To share a document post,
 1.  On your device, open the Tech Writers Tribe application.
 
 2.  In the **Feed** section, tap
-    ![alt text](images/Add.png).
+    ![Image](Images/Add.png).
 
     The options are displayed.
 
@@ -194,7 +195,7 @@ To ask a question,
 1.  On your device, open the Tech Writers Tribe application.
 
 2.  In the **Feed** section, tap
-    ![alt text](images/Add.png).
+    ![Image](Images/Add.png).
 
     The options are displayed.
 
@@ -220,7 +221,7 @@ To share a poll,
 1.  On your device, open the Tech Writers Tribe application.
 
 2.  In the **Feed** section, tap
-    ![alt text](images/Add.png).
+    ![Image](Images/Add.png).
 
     The options are displayed.
 
@@ -251,7 +252,7 @@ To share a quiz,
 1.  On your device, open the Tech Writers Tribe application.
 
 2.  In the **Feed** section, tap
-    ![alt text](images/Add.png).
+    ![Image](Images/Add.png).
 
     The options are displayed.
 
