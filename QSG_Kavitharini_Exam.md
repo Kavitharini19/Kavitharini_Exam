@@ -14,7 +14,7 @@ Tech Writers Tribe is an application that helps the technical writing community 
 
 Creating a post helps engage the attention of your audience and encourages interaction with your content. You can post in the Feed section of the Tech Writers Tribe app. The app offers several post options including text, media, polls, and quizzes.
 
-![alt text](images/FlowChart.png)
+![](images/FlowChart.png)
 **Available options to create a post in TWT app.**
 
 ## Create a Text-only Post
