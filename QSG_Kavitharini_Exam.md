@@ -1,4 +1,4 @@
-**Create a Post on Tech Writers Tribe - Quick Start Guide**
+## Create a Post on Tech Writers Tribe - Quick Start Guide
 
 **Table of Content**
 - [Introduction](#introduction)
